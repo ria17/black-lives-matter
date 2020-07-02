@@ -1,0 +1,45 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Black Owned Skincare</title>
+        <link rel="stylesheet" href="index.css">
+    </head>
+
+    <body>
+        <h1>black owned skincare</h1>
+        <link href="https://fonts.googleapis.com/css2?family=Satisfy&display=swap" rel="stylesheet">
+        <p>here are some skincare companies that are owned by someone from the black community and a few products that stood out ot me from the company!</p>
+        <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+        <nbsp> </nbsp>
+        <section>
+            <h3>Skin Buttr</h3>
+            <p>Focused on body lotion, Skin Buttr has all natural products that are shea based. Created by a gorgeous lady, Tatiana ELizabeth. SKin Buttr stives to leave you with glowing and healthy skin!</p>
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+            <p>their fragranced lemon butter scrub is to die for! it leaves you skin feeling soft and smooth!</p>
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+            <img class="wraptext"nsrc="assets/skinbutterstaw.jpg" alt="skin care" width="300" height="auto"> 
+            <li><a href="https://skinbuttr.com">click here to support!</a></li>
+        </section>
+        <nbsp> </nbsp>
+        <section>
+            <h3>Kaike</h3>
+            <p>Kaike skincare is a vegan black owned skincare company! Known for their various face masks and treatment for dry hair and skin. They strive to solve daily problemes that everyone faces using all natural ingridients!</p>
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+            <p>their green tea clay mask is great for dry skin. it leaves your skin feeling refreshed and hydrated</p>
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+            <img src="kaikegreentea.jpg">
+            <li><a href="https://www.shopkaike.com/">click here to support!</a></li>
+        </section>
+        <nbsp> </nbsp>
+        <section>
+            <h3>Blade + Bloom</h3>
+            <p>Handmade and natual, Blade + Bloom concentrates on being eco-frindly while still caring for their users! Their 100% plant based products leave your sking looking fresh!</p>
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+            <p>Their first flowers rich body balm, is so soft and buttery! you won't want to use any other product after you use this!</p>
+            <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@500&display=swap" rel="stylesheet">
+            <img src="bladeandbloom.jpg">
+            <li><a href="https://bladeandbloom.com/">click here to support!</a></li>
+        </section>
+    </body>
+</html>
+    
